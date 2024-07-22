@@ -9,7 +9,9 @@ Here, I worked on Bike Buyers and used Pivot tables, conditional formatting, das
 # Tableau
 And then I created dashboards in tableau for airbnb data where you can see how each type of property is performing in different areas and price ranges accordingly
 # PowerBI
-I really loved working with Power BI. I can say its quite similar to Excel but more advanced version which makes it easier to perform different functions. I used profession survey data to see how likely different professions earn in different countries, how happy they are with work/life balance, most programmers favorite language and more.
+I really loved working with Power BI. I can say its quite similar to Excel but more advanced version which makes it easier to perform different functions. 
+1. I used professions survey data to see how likely different professions earn in different countries, how happy they are with work/life balance, most programmers favorite language and more.
+2. I also worked on HR data for creating a clear dashboard to find how different genders, age groups are performing, and how likely they are to get promoted, and also found some interesting facts about how travel distance increased productivity and more. That was super exciting.
 # Python
 I created a automated file sorter for file manager to sort all the files into their respective type folders. Quite useful
 # Pandas
